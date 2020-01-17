@@ -1,2 +1,2 @@
-# NAME: chanathip songchanthuek
+# NAME: Chanathip Songchanthuek
 # STUDENT ID: 620612145

@@ -34,7 +34,7 @@ int main()
     cout << name << " : ";
     cin >> id;
     cin.ignore();
-    cout << "Fahsai: I think you may be GEAR " << (id/10000000) << ". I have a free movie tickets for yo.\n";
+    cout << "Fahsai: I think you may be GEAR " << (id/10000000)-12 << ". I have a free movie tickets for yo.\n";
     cout << "Fahsai: Let's go to cinema together!!!\n";
     cout << "Fahsai: What movie do you want to watch?\n";
     cout << name << " : ";
